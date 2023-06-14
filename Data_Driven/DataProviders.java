@@ -7,6 +7,7 @@ public class DataProviders {
 	@DataProvider(name = "login")
 	public Object[][] login() {
 		Object[][] data= {
+			
 				{"https://adactinhotelapp.com/","",""},
 				{"https://adactinhotelapp.com/","chidambaram","sjkafkj"},
 				{"https://adactinhotelapp.com/","chidambaramradhakrishnan","mmchidambaram"},
